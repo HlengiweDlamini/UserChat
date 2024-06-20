@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there! How can I help you?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hey! How can I help you?"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Good! Thanks for asking."
+    },
+    {
+      "question": "...",
+      "answer": "Elipses"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "My name is BPchat"
+    },
+    {
+      "question": "& C:/Users/User/AppData/Local/Programs/Python/Python310/python.exe c:/Users/User/UserChat/UserTaughtChatbot.py",
+      "answer": "& C:/Users/User/AppData/Local/Programs/Python/Python310/python.exe c:/Users/User/UserChat/UserTaughtChatbot.py"
+    },
+    {
+      "question": "what do you do",
+      "answer": "I am a chatbot here to answer any questions you may have about Botswana Post and it's services."
+    },
+    {
+      "question": "What services are offered here?",
+      "answer": "Botswana Post offers mail and courier services primarily, but has other services including providing prepaid electricity & airtime, vehicle licence renewal, DSTV subscription, money transfers, and funeral plans by Hollard Life Botswana. "
+    },
+    {
+      "question": "who?",
+      "answer": "I am BPchat, a customer chat assistance for all Botswana Post customers."
+    }
+  ]
+}
